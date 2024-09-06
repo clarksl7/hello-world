@@ -1,9 +1,7 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <body>
   Hey Stu! Automated deployment worked on committed updates to Git - using Ansible playbook on Docker image
-  <bold> You are one bad, bad, chunky monkey!!! Smokin' them ribs y'all!!!! </bold><br>
-  This version deployed fully automated upon checkin via Jenkins, DockerHub, and Docker with ansible playbook!
-  <br><br> Updated on 8-4-22 for ansible course and ansible host file - part 2.4 version</br>
-<br> Retest after upgrade of Jenkins... PLEASE! </br>
-<be> Testing again on 2/28/24 to confirm all is swell... </br>
+
+  <br>This version deployed fully automated upon checkin via Jenkins, DockerHub, and Docker with ansible playbook!</br>
+  <br> 9/6/24 test after upgrading Ubuntu to 22.04 </br>
 </body>
