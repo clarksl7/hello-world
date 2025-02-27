@@ -4,4 +4,6 @@
 
   <br>This version deployed fully automated upon checkin via Jenkins, DockerHub, and Docker with ansible playbook!</br>
   <br> 1/21/25 - Testing post Ubuntu 24.04.1 upgrade.</br>
+  <br></br>
+  <br>Post configuration and AL2023 upgrade, all is well!</br>
 </body>
