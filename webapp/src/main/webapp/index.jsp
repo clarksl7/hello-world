@@ -6,4 +6,5 @@
   <br> 1/21/25 - Testing post Ubuntu 24.04.1 upgrade.</br>
   <br></br>
   <br>Post configuration and AL2023 upgrade, all is well! XXXX</br>
+  <br> Another test, still not getting Azure node (ubuntu) to launch the docker image</br>
 </body>
