@@ -8,5 +8,5 @@
   <br>Post configuration and AL2023 upgrade, all is well!</br>
   <br>All containers should start now</br>
 
-<br>Is this working still in DevOps (1.0)?? xx </br>
+<br>Is this working still in DevOps (1.0)??</br>
 </body>
